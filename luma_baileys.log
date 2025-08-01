@@ -1,0 +1,572 @@
+🔥 LUMA BUSINESS PRO - BAILEYS WHATSAPP (GRATUIT)
+💙 Réponses automatiques clients sans Meta Business !
+===================================================
+📦 Vérification dépendances...
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+
+🎉 LUMA BAILEYS OPÉRATIONNEL !
+📱 Scannez le QR code avec WhatsApp Business Harley Vape
+⚡ Réponses automatiques activées !
+📊 Monitoring LUMA disponible sur http://localhost:3001
+📊 Status: http://localhost:3001/status
+{"level":30,"time":"2025-08-01T15:46:14.503Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"15mWgV32gsCPww4ErqPSg65p/gXjw3vMS49gs/AMeXA="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T15:46:14.530Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T15:46:15.207Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T15:46:15.223Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"24 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T15:46:15.246Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+📎 Type de message non supporté: senderKeyDistributionMessage
+👀 Présence update: 33783380126@s.whatsapp.net [ '33783380126@s.whatsapp.net' ]
+📱 Message reçu de 33783380126@s.whatsapp.net: שלום
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33783380126@s.whatsapp.net: שלום! איך אני יכול לעזור לך?
+
+– L'équipe Harley Va...
+📊 Interaction: {"timestamp":"2025-08-01T15:48:36.763Z","phone":"33783380****","contact_name":"SC","message_in":"שלום","message_out":"שלום! איך אני יכול לעזור לך?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33783380126@s.whatsapp.net [ '33783380126@s.whatsapp.net' ]
+📱 Message reçu de 33783380126@s.whatsapp.net: אני רוצה וייפ
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33783380126@s.whatsapp.net: באיזה סוג של וייפ אתה מעוניין?
+
+– L'équipe Harley ...
+📊 Interaction: {"timestamp":"2025-08-01T15:48:53.887Z","phone":"33783380****","contact_name":"SC","message_in":"אני רוצה וייפ","message_out":"באיזה סוג של וייפ אתה מעוניין?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33783380126@s.whatsapp.net [ '33783380126@s.whatsapp.net' ]
+📱 Message reçu de 33783380126@s.whatsapp.net: גיק בר
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33783380126@s.whatsapp.net: יש לנו מגוון גיק ברים במלאי. מעוניין בטעם מסוים?
+
+...
+📊 Interaction: {"timestamp":"2025-08-01T15:49:12.233Z","phone":"33783380****","contact_name":"SC","message_in":"גיק בר","message_out":"יש לנו מגוון גיק ברים במלאי. מעוניין בטעם מסוים?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33783380126@s.whatsapp.net [ '33783380126@s.whatsapp.net' ]
+📱 Message reçu de 33783380126@s.whatsapp.net: אבטיח
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33783380126@s.whatsapp.net: יש לנו נוזלים עם טעם אבטיח, תרצה לבוא לבדוק?
+
+– L'...
+📊 Interaction: {"timestamp":"2025-08-01T15:49:44.506Z","phone":"33783380****","contact_name":"SC","message_in":"אבטיח","message_out":"יש לנו נוזלים עם טעם אבטיח, תרצה לבוא לבדוק?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33783380126@s.whatsapp.net [ '33783380126@s.whatsapp.net' ]
+📱 Message reçu de 33783380126@s.whatsapp.net: לא
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33783380126@s.whatsapp.net: איך אפשר לעזור אחרת?
+
+– L'équipe Harley Vape 🧡...
+📊 Interaction: {"timestamp":"2025-08-01T15:49:58.583Z","phone":"33783380****","contact_name":"SC","message_in":"לא","message_out":"איך אפשר לעזור אחרת?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33783380126@s.whatsapp.net [ '33783380126@s.whatsapp.net' ]
+📱 Message reçu de 33783380126@s.whatsapp.net: כן
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33783380126@s.whatsapp.net: OK SC, je vais te mettre en contact avec Anne-Soph...
+📊 Interaction: {"timestamp":"2025-08-01T15:50:18.095Z","phone":"33783380****","contact_name":"SC","message_in":"כן","message_out":"OK SC, je vais te mettre en contact avec Anne-Sophie directement. Elle va te rappeler dans 2 minutes","intent":"general","source":"baileys"}
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📱 Message reçu de 33612461295@s.whatsapp.net: Voilà
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: Salut Johana, comment puis-je t'aider aujourd'hui ...
+📊 Interaction: {"timestamp":"2025-08-01T15:55:42.934Z","phone":"33612461****","contact_name":"Johana S","message_in":"Voilà","message_out":"Salut Johana, comment puis-je t'aider aujourd'hui ?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📱 Message reçu de 33612461295@s.whatsapp.net: Je vie bin produit
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: Peux-tu préciser ce que tu cherches exactement ?
+
+...
+📊 Interaction: {"timestamp":"2025-08-01T15:56:48.033Z","phone":"33612461****","contact_name":"Johana S","message_in":"Je vie bin produit","message_out":"Peux-tu préciser ce que tu cherches exactement ?\n\n– L'équipe Harley Vape 🧡","intent":"product","source":"baileys"}
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📱 Message reçu de 33612461295@s.whatsapp.net: Je cherche Savourea
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: Oui, on a toute la gamme Savourea. Tu veux quel go...
+📊 Interaction: {"timestamp":"2025-08-01T15:57:07.292Z","phone":"33612461****","contact_name":"Johana S","message_in":"Je cherche Savourea","message_out":"Oui, on a toute la gamme Savourea. Tu veux quel goût ?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+📱 Message reçu de 33612461295@s.whatsapp.net: Mure myrtille
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: Dispo en e-liquide ou pod, tu préfères quoi ?
+
+– L...
+📊 Interaction: {"timestamp":"2025-08-01T15:57:10.860Z","phone":"33612461****","contact_name":"Johana S","message_in":"Mure myrtille","message_out":"Dispo en e-liquide ou pod, tu préfères quoi ?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📱 Message reçu de 33612461295@s.whatsapp.net: Mure  myrtille
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: Dispo en e-liquide ou en pods, tu veux quel format...
+📊 Interaction: {"timestamp":"2025-08-01T15:57:29.496Z","phone":"33612461****","contact_name":"Johana S","message_in":"Mure  myrtille","message_out":"Dispo en e-liquide ou en pods, tu veux quel format ?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📱 Message reçu de 33612461295@s.whatsapp.net: Le plus grand c quoi
+🧠 Réponse LUMA Python utilisée
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: OK Johana S, je vais te mettre en contact avec Ann...
+📊 Interaction: {"timestamp":"2025-08-01T15:57:42.175Z","phone":"33612461****","contact_name":"Johana S","message_in":"Le plus grand c quoi","message_out":"OK Johana S, je vais te mettre en contact avec Anne-Sophie directement. Elle va te rappeler dans 2 m","intent":"general","source":"baileys"}
+📱 Message reçu de 33612461295@s.whatsapp.net: Tu me conseilles quel goût toi
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: OK Johana S, je vais te mettre en contact avec Ann...
+📊 Interaction: {"timestamp":"2025-08-01T15:57:49.909Z","phone":"33612461****","contact_name":"Johana S","message_in":"Tu me conseilles quel goût toi","message_out":"OK Johana S, je vais te mettre en contact avec Anne-Sophie directement. Elle va te rappeler dans 2 m","intent":"general","source":"baileys"}
+👀 Présence update: 33612461295@s.whatsapp.net [ '33612461295@s.whatsapp.net' ]
+📱 Message reçu de 33612461295@s.whatsapp.net: Top t es adorable
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 33612461295@s.whatsapp.net: OK Johana S, je vais te mettre en contact avec Ann...
+📊 Interaction: {"timestamp":"2025-08-01T15:58:06.875Z","phone":"33612461****","contact_name":"Johana S","message_in":"Top t es adorable","message_out":"OK Johana S, je vais te mettre en contact avec Anne-Sophie directement. Elle va te rappeler dans 2 m","intent":"general","source":"baileys"}
+📎 Type de message non supporté: senderKeyDistributionMessage
+📎 Type de message non supporté: imageMessage
+📎 Type de message non supporté: videoMessage
+📎 Type de message non supporté: imageMessage
+📎 Type de message non supporté: imageMessage
+📎 Type de message non supporté: protocolMessage
+{"level":30,"time":"2025-08-01T16:01:17.229Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:01:20.353Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"XiotGEHRBcXswSqrX7U2qcwN7TDE6ph9SlY8jH+gC2g="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:01:20.439Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:01:20.750Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"22 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:01:20.772Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"offline preview received"}
+{"level":30,"time":"2025-08-01T16:01:20.785Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 1 offline messages/notifications"}
+📎 Type de message non supporté: imageMessage
+{"level":30,"time":"2025-08-01T16:01:20.839Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:26:50.599Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:27:27.954Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: WebSocket Error (Opening handshake has timed out)\n    at WebSocketClient.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:622:17)\n    at WebSocketClient.emit (node:events:507:28)\n    at WebSocket.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/Client/websocket.js:46:100)\n    at WebSocket.emit (node:events:507:28)\n    at emitErrorAndClose (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:1041:13)\n    at processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at process.processTimers (node:internal/timers:540:9)","msg":"connection errored"}
+🔌 Connexion fermée: Error: WebSocket Error (Opening handshake has timed out)
+    at WebSocketClient.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:622:17)
+    at WebSocketClient.emit (node:events:507:28)
+    at WebSocket.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/Client/websocket.js:46:100)
+    at WebSocket.emit (node:events:507:28)
+    at emitErrorAndClose (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:1041:13)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at runNextTicks (node:internal/process/task_queues:69:3)
+    at process.processTimers (node:internal/timers:540:9) {
+  data: Error: Opening handshake has timed out
+      at ClientRequest.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:873:7)
+      at ClientRequest.emit (node:events:507:28)
+      at TLSSocket.emitRequestTimeout (node:_http_client:863:9)
+      at Object.onceWrapper (node:events:621:28)
+      at TLSSocket.emit (node:events:507:28)
+      at Socket._onTimeout (node:net:604:8)
+      at listOnTimeout (node:internal/timers:608:17)
+      at process.processTimers (node:internal/timers:543:7),
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'WebSocket Error (Opening handshake has timed out)'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:27:31.348Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"nTCWm/ZkpYnmDo34QGZ6ZzLqpI08WQRonFwxm8f/NmQ="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:27:31.535Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:27:32.230Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"22 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:27:32.263Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"offline preview received"}
+{"level":30,"time":"2025-08-01T16:27:32.266Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 1 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:27:32.416Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:33:16.832Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection Terminated\n    at WebSocketClient.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:459:30)\n    at WebSocketClient.emit (node:events:519:35)\n    at WebSocket.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/Client/websocket.js:46:100)\n    at WebSocket.emit (node:events:507:28)\n    at WebSocket.emitClose (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:272:10)\n    at Receiver.receiverOnFinish (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:1209:20)\n    at Receiver.emit (node:events:507:28)\n    at finish (node:internal/streams/writable:953:10)\n    at node:internal/streams/writable:934:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection Terminated
+    at WebSocketClient.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:459:30)
+    at WebSocketClient.emit (node:events:519:35)
+    at WebSocket.<anonymous> (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/Client/websocket.js:46:100)
+    at WebSocket.emit (node:events:507:28)
+    at WebSocket.emitClose (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:272:10)
+    at Receiver.receiverOnFinish (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/ws/lib/websocket.js:1209:20)
+    at Receiver.emit (node:events:507:28)
+    at finish (node:internal/streams/writable:953:10)
+    at node:internal/streams/writable:934:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 428,
+    payload: {
+      statusCode: 428,
+      error: 'Precondition Required',
+      message: 'Connection Terminated'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+{"level":50,"time":"2025-08-01T16:33:16.834Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"error in sending keep alive"}
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:33:20.360Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"j/koBkLKKUfrOgH3+ATbTDXr+vC+kXKDMnrqvYKRmz8="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:33:20.580Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:33:21.385Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"22 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:33:21.432Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"offline preview received"}
+{"level":30,"time":"2025-08-01T16:33:21.434Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 1 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:33:21.602Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:34:37.096Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:34:40.528Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"FLt5wZtRNRPSqsPTfN+/JwLgC0n8/A7uFsubzAb8J0s="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:34:40.639Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:34:41.013Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:34:41.193Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"22 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:34:41.301Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:37:10.317Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:37:26.334Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"v6NaTfvuhMvqVHr4V9S3AP5IFehRmqXy5lrEqmzBAQ4="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:37:26.427Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:37:26.749Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"22 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:37:26.780Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:37:26.834Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+👀 Présence update: 8618138403060@s.whatsapp.net [ '8618138403060@s.whatsapp.net' ]
+👀 Présence update: 8618138403060@s.whatsapp.net [ '8618138403060@s.whatsapp.net' ]
+📱 Message reçu de 8618138403060@s.whatsapp.net: Hello，friend
+🧠 Réponse LUMA Python utilisée
+📱 Message reçu de 8618138403060@s.whatsapp.net: How are u？
+🧠 Réponse LUMA Python utilisée
+📤 Réponse envoyée à 8618138403060@s.whatsapp.net: Hey! What can I help you with today?
+
+– L'équipe H...
+📊 Interaction: {"timestamp":"2025-08-01T16:38:30.466Z","phone":"86181384****","contact_name":"BiMOvape_JiSOO","message_in":"Hello，friend","message_out":"Hey! What can I help you with today?\n\n– L'équipe Harley Vape 🧡","intent":"greeting","source":"baileys"}
+📤 Réponse envoyée à 8618138403060@s.whatsapp.net: I'm good, thanks! Need help with anything today?
+
+...
+📊 Interaction: {"timestamp":"2025-08-01T16:38:32.567Z","phone":"86181384****","contact_name":"BiMOvape_JiSOO","message_in":"How are u？","message_out":"I'm good, thanks! Need help with anything today?\n\n– L'équipe Harley Vape 🧡","intent":"general","source":"baileys"}
+📎 Type de message non supporté: videoMessage
+{"level":30,"time":"2025-08-01T16:42:27.428Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:42:30.537Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"pWDTSNbCfA1dZtzOAnLXYzGUUtzXzSj3Wbj16Yzvsng="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:42:30.570Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:42:31.145Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:42:31.146Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"21 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:42:31.178Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:44:56.737Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:47:37.218Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"vPuiON3Mhq1mi+o+kljPrLVb2/kIrhDszTvZ709YgSM="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:47:37.348Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:47:37.742Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"21 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:47:37.766Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"offline preview received"}
+{"level":30,"time":"2025-08-01T16:47:37.768Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 1 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:47:37.869Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:52:57.765Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:53:01.193Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"mAuDEtTL1EW6xXvFaYqltpHfpYTT63VbM5igHYpmlVA="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:53:01.310Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:53:01.669Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"21 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:53:01.710Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:53:01.785Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:57:14.927Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:57:18.060Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"pFwlYBoQbJljWDsmBqqz0mrSwSUD5CJPjW13EuFJcTU="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:57:18.150Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:57:18.483Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"21 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:57:18.504Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:57:18.569Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T16:58:38.007Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T16:58:41.092Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"qNQy2iMB7VQd9G0DFADx+dREtvcyXBIaJWn9qh8jIjY="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T16:58:41.117Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T16:58:41.830Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T16:58:41.831Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"21 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T16:58:41.852Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T17:02:08.069Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T17:02:12.056Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"qzuWmjnyB7xj8hHlhWkanDcHi2v2IOAjpFDMZOT1/Uc="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T17:02:12.262Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T17:02:13.106Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"20 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T17:02:13.151Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"offline preview received"}
+{"level":30,"time":"2025-08-01T17:02:13.152Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 1 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T17:02:13.384Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T17:07:08.451Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T17:07:11.581Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"hoAMLsT14PpRhkUsQHeggBLTO/Gtvwz5eTZOP6gzdys="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T17:07:11.670Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T17:07:12.007Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"20 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T17:07:12.023Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T17:07:12.094Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+👀 Présence update: 33666430848@s.whatsapp.net [ '33666430848@s.whatsapp.net' ]
+👀 Présence update: 33666430848@s.whatsapp.net [ '33666430848@s.whatsapp.net' ]
+{"level":30,"time":"2025-08-01T17:12:08.708Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T17:12:12.972Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"Cf/8+oj8kJHt+7W/YV9cwn5n/4Aqz5LBeV0VSBCFsxM="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T17:12:13.088Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T17:12:13.441Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"19 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T17:12:13.486Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T17:12:13.550Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !
+{"level":30,"time":"2025-08-01T17:14:19.306Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","trace":"Error: Connection was lost\n    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)\n    at listOnTimeout (node:internal/timers:608:17)\n    at process.processTimers (node:internal/timers:543:7)","msg":"connection errored"}
+🔌 Connexion fermée: Error: Connection was lost
+    at Timeout._onTimeout (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:308:17)
+    at listOnTimeout (node:internal/timers:608:17)
+    at process.processTimers (node:internal/timers:543:7) {
+  data: null,
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Connection was lost'
+    },
+    headers: {}
+  }
+} , reconnexion: true
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+{"level":30,"time":"2025-08-01T17:14:22.471Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","browser":["LUMA Business Pro","Desktop","1.0.0"],"helloMsg":{"clientHello":{"ephemeral":"R5XTOsh7SdZlQSaLmIf2SLWieGAY4t4c9qE8NFPeNkk="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-08-01T17:14:22.501Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","node":{"username":"13072251057","passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1023223821},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":8,"pull":true},"msg":"logging in..."}
+{"level":30,"time":"2025-08-01T17:14:23.065Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"handled 0 offline messages/notifications"}
+{"level":30,"time":"2025-08-01T17:14:23.291Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"19 pre-keys found on server"}
+{"level":30,"time":"2025-08-01T17:14:23.321Z","pid":77904,"hostname":"MacBook-Pro-de-Harley.local","class":"baileys","msg":"opened connection to WA"}
+✅ WhatsApp connecté avec succès !
+🎉 LUMA peut maintenant répondre automatiquement !

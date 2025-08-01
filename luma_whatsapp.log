@@ -1,0 +1,24 @@
+🔥 LUMA BUSINESS PRO - BAILEYS WHATSAPP (GRATUIT)
+💙 Réponses automatiques clients sans Meta Business !
+===================================================
+📦 Vérification dépendances...
+🚀 LUMA Baileys WhatsApp Service - Démarrage...
+📱 En attente de connexion WhatsApp...
+👆 Scannez le QR code avec votre WhatsApp !
+
+🎉 LUMA BAILEYS OPÉRATIONNEL !
+📱 Scannez le QR code avec WhatsApp Business Harley Vape
+⚡ Réponses automatiques activées !
+💥 Exception non capturée: Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+    at listenInCluster (node:net:1997:12)
+    at Server.listen (node:net:2102:7)
+    at app.listen (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/node_modules/express/lib/application.js:635:24)
+    at LumaMonitoringServer.start (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/baileys_whatsapp_luma.js:428:18)
+    at main (/Users/harleyvapestaff/Desktop/LUMA-SUPREME/baileys_whatsapp_luma.js:451:20) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}

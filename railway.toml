@@ -1,0 +1,9 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "npm start"
+
+[env]
+NODE_VERSION = "20.11.0"
+NPM_VERSION = "10.5.2" 

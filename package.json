@@ -1,0 +1,35 @@
+{
+  "name": "luma-business-pro",
+  "version": "1.0.0",
+  "description": "🔥 LUMA BUSINESS PRO - Employée digitale autonome pour Harley Vape",
+  "main": "baileys_whatsapp_luma.js",
+  "scripts": {
+    "start": "node baileys_whatsapp_luma.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luma",
+    "whatsapp",
+    "baileys",
+    "automation",
+    "business",
+    "harley-vape"
+  ],
+  "author": "Anne-Sophie - Harley Vape",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "node baileys_whatsapp_luma.js",
+    "build": "npm install"
+  }
+}
