@@ -16,6 +16,9 @@ const fs = require('fs')
 const path = require('path')
 const qrcode = require('qrcode-terminal')
 
+// 🔗 Intégration Notion
+const NotionIntegration = require('./modules/notion_integration')
+
 // Configuration
 const CONFIG = {
     // LUMA Service
@@ -180,6 +183,8 @@ class BaileysLumaService {
     }
 
     async processWithLuma(messageInfo) {
+        const startTime = Date.now()
+        
         try {
             // 1. Analyser message et contexte
             const context = this.getClientContext(messageInfo.phone, messageInfo.contactName)
@@ -216,7 +221,11 @@ class BaileysLumaService {
             // 5. Envoyer réponse
             await this.sendMessage(messageInfo.phone, enhancedResponse)
             
-            // 6. Log interaction
+            // 6. 🔗 Intégration Notion automatique
+            const processingTime = Date.now() - startTime
+            await this.integrateWithNotion(messageInfo, enhancedResponse, processingTime)
+            
+            // 7. Log interaction
             this.logInteraction(messageInfo, enhancedResponse, intent)
             
         } catch (error) {
@@ -225,6 +234,10 @@ class BaileysLumaService {
             // Réponse de fallback
             const fallbackResponse = `Bonjour ${messageInfo.contactName} ! Merci pour votre message. Notre équipe Harley Vape vous répond très rapidement ! 😊`
             await this.sendMessage(messageInfo.phone, fallbackResponse)
+            
+            // Intégration Notion même en cas d'erreur
+            const processingTime = Date.now() - startTime
+            await this.integrateWithNotion(messageInfo, fallbackResponse, processingTime)
         }
     }
 
@@ -369,6 +382,28 @@ class BaileysLumaService {
             await this.sock.readMessages([{ remoteJid: phone, id: messageId }])
         } catch (error) {
             console.log('⚠️ Impossible de marquer comme lu:', error.message)
+        }
+    }
+
+    // 🔗 Intégration automatique avec Notion
+    async integrateWithNotion(messageInfo, responseText, processingTime) {
+        try {
+            // Initialiser l'intégration Notion
+            const notionIntegration = new NotionIntegration()
+            
+            // Logger automatiquement dans Notion
+            const notionResult = await notionIntegration.logToNotion(messageInfo, responseText, processingTime)
+            
+            if (notionResult.success) {
+                console.log(`🎉 Intégration Notion réussie pour ${messageInfo.contactName}`)
+                console.log(`⏱️ Temps total: ${notionResult.totalTime}ms`)
+            } else {
+                console.error('❌ Erreur intégration Notion:', notionResult.error)
+            }
+            
+        } catch (error) {
+            console.error('❌ Erreur intégration Notion:', error)
+            // Ne pas bloquer le processus principal en cas d'erreur Notion
         }
     }
 }
